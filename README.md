@@ -15,7 +15,6 @@ The project seeks to answer the following questions:
 -	Which players have won "Player of the Match" awards for different teams?
 
 # Process
-
 ## Data Collection – The dataset consists of IPL match records till the 2022 season.
 ## Data Cleaning & Preprocessing – Removing null values, correcting data formats, and structuring the dataset.
 ## Exploratory Data Analysis (EDA – Using Pandas, Matplotlib, and Seaborn to analyze trends and patterns.
