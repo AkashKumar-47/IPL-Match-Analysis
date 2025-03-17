@@ -25,3 +25,10 @@ The project seeks to answer the following questions:
 - Representing insights with graphs and charts.
 ## Dashboard & Reporting 
 - Summarizing findings in a clear and concise format.
+
+# Project Insights
+- Mumbai Indians have won the most IPL matches across all seasons.
+- Mumbai has hosted the most IPL matches.
+- The toss decision has a significant impact on match outcomes.
+- The frequency of Super Overs has fluctuated across seasons, with peaks in certain years.
+- AB de Villiers holds the record for the most "Player of the Match" awards.
