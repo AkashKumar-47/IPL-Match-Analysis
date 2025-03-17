@@ -4,7 +4,7 @@ This project aims to analyze IPL match data to uncover key insights about team p
 # Key Questions and KPI's
 
 The project seeks to answer the following questions:
-1.	Which team has won the most IPL matches across all seasons?
+- 1.	Which team has won the most IPL matches across all seasons?
 2.	Which city has hosted the most IPL matches?
 3.	Which venue has the most wins by batting first vs. chasing?
 4.	Who are the top 5 "Player of the Match" award winners?
