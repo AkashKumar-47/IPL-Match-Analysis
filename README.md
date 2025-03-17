@@ -16,8 +16,8 @@ The project seeks to answer the following questions:
 
 # Process
 
-- **Data Collection** – The dataset consists of IPL match records till the 2022 season.
-- **Data Cleaning & Preprocessing** – Removing null values, correcting data formats, and structuring the dataset.
--	**Exploratory Data Analysis (EDA)** – Using Pandas, Matplotlib, and Seaborn to analyze trends and patterns.
--**Data Visualization – Representing** insights with graphs and charts.
--	**Dashboard & Reporting** – Summarizing findings in a clear and concise format.
+## Data Collection – The dataset consists of IPL match records till the 2022 season.
+## Data Cleaning & Preprocessing – Removing null values, correcting data formats, and structuring the dataset.
+## Exploratory Data Analysis (EDA – Using Pandas, Matplotlib, and Seaborn to analyze trends and patterns.
+## Data Visualization – Representing insights with graphs and charts.
+## Dashboard & Reporting – Summarizing findings in a clear and concise format.
