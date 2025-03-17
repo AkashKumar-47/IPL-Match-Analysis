@@ -45,7 +45,7 @@ The analysis provides valuable insights into IPL match trends, team performances
 
 # How to Use
 - Clone this repository: 
-- git clone https://github.com/yourusername/ipl-analysis.git
+- git clone https://github.com/AkashKumar-47/IPL-Match-Analysis
 - Install dependencies: 
 - pip install pandas matplotlib seaborn
 - Run the Jupyter notebooks or Python scripts to explore insights.
