@@ -4,12 +4,20 @@ This project aims to analyze IPL match data to uncover key insights about team p
 # Key Questions and KPI's
 
 The project seeks to answer the following questions:
-- 1.	Which team has won the most IPL matches across all seasons?
-2.	Which city has hosted the most IPL matches?
-3.	Which venue has the most wins by batting first vs. chasing?
-4.	Who are the top 5 "Player of the Match" award winners?
-5.	How does the toss decision affect the match outcome?
-6.	Which IPL season had the closest matches (smallest winning margins)?
-7.	Has the frequency of Super Overs changed over the years?
-8.	How many Super Overs have been played in each season?
-9.	Which players have won "Player of the Match" awards for different teams?
+- Which team has won the most IPL matches across all seasons?
+-	Which city has hosted the most IPL matches?
+-	Which venue has the most wins by batting first vs. chasing?
+-	Who are the top 5 "Player of the Match" award winners?
+-	How does the toss decision affect the match outcome?
+-	Which IPL season had the closest matches (smallest winning margins)?
+-	Has the frequency of Super Overs changed over the years?
+-	How many Super Overs have been played in each season?
+-	Which players have won "Player of the Match" awards for different teams?
+
+# Process
+
+- **Data Collection** – The dataset consists of IPL match records till the 2022 season.
+- **Data Cleaning & Preprocessing** – Removing null values, correcting data formats, and structuring the dataset.
+-	**Exploratory Data Analysis (EDA)** – Using Pandas, Matplotlib, and Seaborn to analyze trends and patterns.
+-**Data Visualization – Representing** insights with graphs and charts.
+-	**Dashboard & Reporting** – Summarizing findings in a clear and concise format.
