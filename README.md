@@ -16,7 +16,7 @@ The project seeks to answer the following questions:
 
 # Process
 ## Data Collection 
-- The dataset consists of <a href = "">IPL</a> match records till the 2022 season.
+- The dataset consists of <a href = "https://github.com/AkashKumar-47/IPL-Match-Analysis/blob/main/ipl-matches.csv">IPL</a> match records till the 2022 season.
 ## Data Cleaning & Preprocessing 
 - Removing null values, correcting data formats, and structuring the dataset.
 ## Exploratory Data Analysis (EDA) 
